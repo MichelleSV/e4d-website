@@ -1,0 +1,32 @@
+{
+  "name": "e4d-website",
+  "version": "1.0.0",
+  "description": "Learn the pronunciation of letter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "npm",
+    "gulp",
+    "css",
+    "html",
+    "javascript"
+  ],
+  "author": "Arabela Rojas, Mercedes Zubieta, Michelle Seguil",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  },
+  "devDependencies": {
+    "express": "^4.14.0",
+    "graceful-fs": "^4.1.11",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.0",
+    "minimatch": "^3.0.3"
+  }
+}
